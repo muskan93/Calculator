@@ -2,9 +2,9 @@
 # Calculator
 Various Operations :
 
-Addition
-Subtraction
-Multiplication
-Division
+Addition,
+Subtraction,
+Multiplication,
+Division,
 Remainder
 
